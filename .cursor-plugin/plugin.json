@@ -11,5 +11,6 @@
     "infrastructure",
     "street-intelligence",
     "mcp"
-  ]
+  ],
+  "mcpServers": "./mcp.json"
 }
