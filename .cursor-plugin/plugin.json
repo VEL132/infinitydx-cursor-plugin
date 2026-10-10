@@ -1,0 +1,15 @@
+{
+  "name": "infinitydx",
+  "version": "1.0.0",
+  "description": "Street-level physical intelligence and infrastructure observations for AI agents.",
+  "author": {
+    "name": "VirtualEL"
+  },
+  "keywords": [
+    "geospatial",
+    "physical-ai",
+    "infrastructure",
+    "street-intelligence",
+    "mcp"
+  ]
+}
