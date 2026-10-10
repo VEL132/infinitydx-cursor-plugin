@@ -1,6 +1,7 @@
 {
   "name": "infinitydx",
   "version": "1.0.0",
+  "logo": "./logo.png",
   "description": "Street-level physical intelligence and infrastructure observations for AI agents.",
   "author": {
     "name": "∞Dx"
